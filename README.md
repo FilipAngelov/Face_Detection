@@ -6,7 +6,6 @@
 * [Image Classification Screenshots](#image-classification-screenshots)
 * [Video Classification](#video-classification)
 * [Features](#features)
-* [Inspiration](#inspiration)
 * [Contributors](#contributors)
 
 
@@ -78,11 +77,6 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 ## Video Classification
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-Filip
-
 ## Features
 List of features ready and ToDos for future development
 * Image classification function ['predict_url' :link:](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/predict_url.ipynb) which can be used to classify a picture by inserting a picture URL from the internet.
@@ -98,10 +92,6 @@ List of features ready and ToDos for future development
 |**Age groups**  | 0-2 | 4-6 | 8-12|15-20|25-32|38-43|48-53|60-100|
 | :------ | :-------- | :-------- | :------ | :------ | :------ | :------ | :------ | :------ |
 
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
-SRNA
 
 ## Contributors
 

@@ -75,6 +75,7 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/Presentation1.png)
 
 ## Video Classification
+* The video pediction method is found in the Video_prediction.ipynb notebook. It can be run in Google Colab, where you would need to upload deploy.prototxt and res10_300x300_ssd_iter_140000.caffemodel files to run the video classificator.
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
 
 ## Features

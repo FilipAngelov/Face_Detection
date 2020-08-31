@@ -7,6 +7,7 @@
 * [Video Classification](#video-classification)
 * [Features](#features)
 * [Contributors](#contributors)
+* [Participants](#participants)
 
 
 ## General Info
@@ -103,3 +104,17 @@ Thanks to the following people who have contributed to this project: :raised_han
 * [@gardnerska](https://github.com/gardnerska) 
 * [@srnag](https://github.com/srnag)
 * [@tonipesic](https://github.com/tonipesic)
+
+## Participants
+
+* ivan.vukelic@gmail.com
+* mojsovski.riste@hotmail.com
+* martina_nestorovska@yahoo.com
+* angelavsahpaska@gmail.com
+* dimitardmm@gmail.com
+* nikonastev@gmail.com
+* teodora.zhivkovikj@gmail.com
+* apostoloska.j@gmail com
+* stavrovski1989@gmail.com
+* g.bonkova@gmail.com
+* marija.tanaskova@gmail.com

@@ -1,4 +1,4 @@
-# Project: Mask and Age Classification 
+# Project: Computer Vision, Mask-on-face and Age Classification 
 * [General Info](#general-info)
 * [Technologies & Setup](#technologies-&-setup)
 * [Dataset](#dataset)
